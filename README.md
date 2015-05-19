@@ -19,8 +19,12 @@ https://api9998.getyourhero.com/api/availability/:post_code/:hours_needed/0
 
 API examples:
 
-![Request](https://raw.githubusercontent.com/ryanfox1985/technical_test_rails/request.png "Request") <br />
-![Response](https://raw.githubusercontent.com/ryanfox1985/technical_test_rails/request.png "Response")
+- Request:
+![Request](https://raw.githubusercontent.com/ryanfox1985/technical_test_rails/master/request.png "Request")
+<br />
+
+- Response:
+![Response](https://raw.githubusercontent.com/ryanfox1985/technical_test_rails/master/response.png "Response")
 
 The request are called when it modifies any datum in step one details.
 
