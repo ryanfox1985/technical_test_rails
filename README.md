@@ -60,6 +60,6 @@ curl http://localhost:3000/availabilities/1111/2/0.json
 ```
 
 __Limitations:__
-- Not contemplate half hour in Availabilities controller
+- Not contemplate half hour at hours_needed parameter in Availabilities controller
 - Only postal code 1111 has reservations (seeds.rb)
 - Only have availabilities for today
