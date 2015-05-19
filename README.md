@@ -6,6 +6,7 @@
 
 #Theoretical Tasks
 Explain shortly how you will do the following (make appropriate drawings or documentation):
+
 1. Identify all necessary parameter that are transmitted to the backend end-point, in order to receive all available time slots
 2. Clarify in which step the backend function should be called
 3. Under which circumstances is it necessary to recall the function?
@@ -42,6 +43,7 @@ Field | Type | Description
 
 
 #Practical Tasks
+
 1. Implement the API end-point for querying the availability in one module in RoR
 2. Implement the function that adjusts the availability according to the booking for upcoming bookings requests
 
