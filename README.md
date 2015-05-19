@@ -27,7 +27,7 @@ API examples:
 - Response:
 ![Response](https://raw.githubusercontent.com/ryanfox1985/technical_test_rails/master/response.png "Response")
 
-The request are called when it modifies any datum in step one details.
+The request called when you modify any datum in step one details.
 
 The response is a hash in Json:
 { "Date": ["Hour", "Hour"]}
